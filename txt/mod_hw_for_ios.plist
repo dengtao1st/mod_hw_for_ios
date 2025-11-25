@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Filter</key>
+	<dict>
+		<key>Executables</key>
+		<array>
+			<string>appinstalld</string>
+			<string>lockdownd</string>
+			<string>findmydeviced</string>
+			<string>fmflocatord</string>
+			<string>fmfd</string>
+			<string>cloudd</string>
+			<string>geod</string>
+			<string>akd</string>
+			<string>accountsd</string>
+			<string>itunescloudd</string>
+			<string>SetupAssistant</string>
+			<string>locationd</string>
+			<string>parsecd</string>
+			<string>AppStore</string>
+			<string>itunesstored</string>
+			<string>ptpd</string>
+			<string>lsd</string>
+			<string>appstored</string>
+			<string>atc</string>
+			<string>CommCenter</string>
+			<string>adid</string>
+			<string>homed</string>
+			<string>familycircled</string>
+			<string>AdSheet</string>
+			<string>storebookkeeperd</string>
+			<string>identityservicesd</string>
+			<string>absd</string>
+			<string>fairplayd.H2</string>
+			<string>SpringBoard</string>
+			<string>mDNSResponder</string>
+		</array>
+		<key>Bundles</key>
+		<array>
+			<string>com.apple.Preferences</string>
+			<string>com.apple.AuthKit</string>
+			<string>com.apple.UIKit</string>
+			<string>com.apple.itunesstored</string>
+			<string>com.apple.sbd</string>
+			<string>com.apple.AppStore</string>
+			<string>com.apple.datamigrator</string>
+		</array>
+	</dict>
+</dict>
+</plist>

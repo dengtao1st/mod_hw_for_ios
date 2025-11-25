@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>HWModelStr</key><!-- 硬件模型:请慎重 -->
+		<string>D20AP</string>
+		<key>BluetoothAddress</key><!-- 蓝牙地址 -->
+		<string>DC:52:85:28:E6:6D</string>
+		<key>BluetoothAddressData</key>
+		<true/>
+		<key>WifiAddress</key><!-- Wlan/Wi-Fi地址 -->
+		<string>DC:52:85:24:6F:33</string>
+		<key>WifiAddressData</key>
+		<true/>
+		<key>UniqueDeviceID</key><!-- UDID -->
+		<string>a5d122ea870b2a0fe69faa5aa5f3c06ab4c1c191</string>
+		<key>UniqueDeviceIDData</key>
+		<true/>
+		<key>SerialNumber</key><!-- 序列号 -->
+		<string>FFXDH54F0F0V</string>
+		<key>EthernetMacAddress</key><!-- 蜂窝地址 -->
+		<string>DC:52:85:18:A6:C7</string>
+		<key>MLBSerialNumber</key><!-- 主板序列号 -->
+		<string>F3Y04073U91PRW09</string>
+		<!-- <key>ProductId</key> -->
+		<!-- <string>123414bc70d7a991a4db2d1a541562864426b310</string> -->
+		<!-- <key>UniqueChipId</key> -->
+		<!-- <string>12343b00ee151401</string> -->
+		<key>InternationalMobileEquipmentIdentity</key><!-- IMEI -->
+		<string>355715070142363</string>
+		<key>MobileEquipmentIdentifier</key><!-- MEID -->
+		<string>355715070142364</string>
+		<key>ProductVersion</key><!-- 固件/系统版本 -->
+		<string>13.3.1</string>
+		<key>BuildVersion</key><!-- 编译版本 -->
+		<string>18D61</string>
+		<key>HardwarePlatform</key><!-- 芯片型号 -->
+		<string>t8101</string>
+		<key>ModelNumber</key><!-- 销售型号 -->
+		<string>MGLF3</string>
+		<key>RegionInfo</key><!-- 区域信息 -->
+		<string>KH/A</string>
+		<key>RegionCode</key><!-- 区域代码 -->
+		<string>KH</string>
+		<key>ProductType</key><!-- 产品类型 -->
+		<string>iPhone13,3</string>
+		<key>IDFA</key>
+		<string>E1D2194B-6C91-4094-8F5B-F7CAE5C50989</string>
+		<key>IDFV</key>
+		<string>67097426-5C22-4914-87D0-034C77741872</string>
+	</dict>
+</plist>

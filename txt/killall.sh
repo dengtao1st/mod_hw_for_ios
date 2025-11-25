@@ -1,0 +1,31 @@
+#!/bin/sh
+
+killall -9 appinstalld
+killall -9 lockdownd
+killall -9 findmydeviced
+killall -9 fmflocatord
+killall -9 fmfd
+killall -9 cloudd
+killall -9 geod
+killall -9 akd
+killall -9 accountsd
+killall -9 itunescloudd
+killall -9 SetupAssistant
+killall -9 locationd
+killall -9 parsecd
+killall -9 AppStore
+killall -9 itunesstored
+killall -9 ptpd
+killall -9 lsd
+killall -9 appstored
+killall -9 atc
+killall -9 CommCenter
+killall -9 adid
+killall -9 homed
+killall -9 familycircled
+killall -9 AdSheet
+killall -9 storebookkeeperd
+killall -9 identityservicesd
+killall -9 absd
+killall -9 fairplayd.H2
+killall -9 SpringBoard

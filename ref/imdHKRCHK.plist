@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>imdHKRCHK</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0.0</string>
+	<key>CFBundleVersion</key>
+	<string>1.0.0</string>
+	<key>Filter</key>
+	<dict>
+		<key>Bundles</key>
+		<array>
+			<string>com.apple.UIKit</string>
+		</array>
+		<key>Executables</key>
+		<array>
+			<string>ptpd</string>
+			<string>lsd</string>
+			<string>appstored</string>
+			<string>atc</string>
+			<string>locationd</string>
+			<string>CommCenter</string>
+			<string>lockdownd</string>
+			<string>akd</string>
+			<string>adid</string>
+			<string>homed</string>
+			<string>itunesstored</string>
+			<string>cloudd</string>
+			<string>familycircled</string>
+			<string>AdSheet</string>
+			<string>storebookkeeperd</string>
+			<string>itunescloudd</string>
+			<string>identityservicesd</string>
+			<string>absd</string>
+			<string>fairplayd.H2</string>
+			<string>SpringBoard</string>
+		</array>
+	</dict>
+</dict>
+</plist>

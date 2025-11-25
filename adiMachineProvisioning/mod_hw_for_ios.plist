@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Filter</key>
+	<dict>
+		<key>Executables</key>
+		<array>
+			<string>geod</string>
+			<string>akd</string>
+			<string>adid</string>
+			<string>fairplayd.H2</string>
+		</array>
+		<key>Bundles</key>
+		<array>
+			<string>com.apple.Preferences</string>
+			<string>com.apple.AuthKit</string>
+			<string>com.apple.UIKit</string>
+		</array>
+	</dict>
+</dict>
+</plist>
